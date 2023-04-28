@@ -2,6 +2,14 @@
 base46-contribute-for-new-themes	base46.md	/## Contribute for new themes 
 base46-nvchad-theme-plugin	base46.md	/## NvChad theme plugin
 base46-understanding-theme-variables	base46.md	/## Understanding theme variables 
+better-escape.nvim-api	better-escape.nvim.md	/## API
+better-escape.nvim-better-escape-nvim	better-escape.nvim.md	/# 🚪better-escape.nvim
+better-escape.nvim-customization	better-escape.nvim.md	/## ⚙️Customization
+better-escape.nvim-demo	better-escape.nvim.md	/## 👀Demo
+better-escape.nvim-features	better-escape.nvim.md	/## ✨Features
+better-escape.nvim-how-it-works	better-escape.nvim.md	/## 🎓How it works
+better-escape.nvim-installation	better-escape.nvim.md	/## 📦Installation
+better-escape.nvim-support	better-escape.nvim.md	/## ❤️ Support
 cmp-buffer-all-buffers	cmp-buffer.md	/##### All buffers
 cmp-buffer-cmp-buffer	cmp-buffer.md	/# cmp-buffer
 cmp-buffer-configuration	cmp-buffer.md	/## Configuration

@@ -1,0 +1,4 @@
+[START][2023-04-27 15:03:44] LSP logging initiated
+[ERROR][2023-04-27 15:03:44] .../vim/lsp/rpc.lua:733	"rpc"	"cmd.exe"	"stderr"	"^C"
+[START][2023-04-27 17:42:41] LSP logging initiated
+[ERROR][2023-04-27 17:42:41] .../vim/lsp/rpc.lua:733	"rpc"	"cmd.exe"	"stderr"	"^C"
